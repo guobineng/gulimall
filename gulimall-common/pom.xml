@@ -54,6 +54,7 @@
         </dependency>
 
         <!-- 服务注册与发现 -->
+        <!-- 测试提交代码 -->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
